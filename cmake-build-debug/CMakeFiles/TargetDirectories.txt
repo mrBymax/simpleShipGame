@@ -1,0 +1,3 @@
+/Users/federicobertossi/Desktop/cpp_simple_ship_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/federicobertossi/Desktop/cpp_simple_ship_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/federicobertossi/Desktop/cpp_simple_ship_game/cmake-build-debug/CMakeFiles/HelloSFML.dir
